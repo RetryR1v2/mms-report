@@ -5,7 +5,7 @@ Config.defaultlang = "de_lang"
 -- Webhook Settings
 
 Config.WHTitle = 'Report: '
-Config.WHLink = 'https://discord.com/api/webhooks/1340677686711812106/ZV35BeM5exWZvYzUQ8qDGp4FTPM3nBGvST1ixMg9aTnZWwb-vhqjTyjJ1g1jKGc2nPmq'  -- Discord WH link Here
+Config.WHLink = ''  -- Discord WH link Here
 Config.WHColor = 16711680 -- red
 Config.WHName = 'Report: ' -- name
 Config.WHLogo = 'https://i.postimg.cc/WbTd5ngd/Report-Icon.png' -- must be 30x30px
